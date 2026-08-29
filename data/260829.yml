@@ -1,0 +1,65 @@
+about:
+  description: SPARQL graph database
+  license: Apache-2.0
+  homepage: 
+  head: 703d49b
+  archived: false
+  latestVersion: v0.5.9
+  collectedAt: 2026-08-29T06:58:25Z
+timeline:
+  created: 2018-05-16
+  lastCommit: 2026-08-28
+  lastRelease: 2026-06-18
+popularity:
+  star: 1847
+  watcher: 31
+  fork: 164
+  release: 75
+  contributor: 37
+  pullRequest: 307
+  issue: 389
+language:
+  Rust: 3549582
+  Python: 88359
+  TypeScript: 20309
+  Shell: 10815
+  C++: 7093
+  C: 2662
+  Dockerfile: 1231
+  HTML: 881
+  JavaScript: 62
+  Ruby: 18
+totalLine: 3681012
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 35
+    openPR: 6
+    closedIssue: 11
+    openIssue: 13
+    commit: 38
+  last90d:
+    since: 2026-05-31
+    release: 1
+    mergedPR: 83
+    openPR: 7
+    closedIssue: 22
+    openIssue: 18
+    commit: 87
+  last180d:
+    since: 2026-03-02
+    release: 4
+    mergedPR: 145
+    openPR: 10
+    closedIssue: 27
+    openIssue: 29
+    commit: 146
+  last360d:
+    since: 2025-09-03
+    release: 12
+    mergedPR: 267
+    openPR: 13
+    closedIssue: 40
+    openIssue: 46
+    commit: 281
