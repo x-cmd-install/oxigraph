@@ -5,19 +5,19 @@ about:
   head: 7ce152a
   archived: false
   latestVersion: "v0.5.11"
-  collectedAt: 2026-09-07T04:40:41Z
+  collectedAt: 2026-09-07T19:45:50Z
 timeline:
   created: 2018-05-16
   lastCommit: 2026-09-05
   lastRelease: 2026-09-02
 popularity:
-  star: 1864
+  star: 1867
   watcher: 31
   fork: 167
   release: 77
   contributor: 37
-  pullRequest: 1441
-  issue: 391
+  pullRequest: 1442
+  issue: 393
 language:
   Rust: 3549983
   Python: 88479
@@ -35,60 +35,60 @@ recent:
     since: 2026-08-08
     release: 2
     mergedPR: 39
-    openPR: 5
+    openPR: 6
     closedIssue: 15
-    openIssue: 9
+    openIssue: 11
     commit: 30
   last60d:
     since: 2026-07-09
     release: 2
     mergedPR: 73
-    openPR: 7
+    openPR: 8
     closedIssue: 17
-    openIssue: 15
+    openIssue: 17
     commit: 62
   last90d:
     since: 2026-06-09
     release: 3
     mergedPR: 88
-    openPR: 8
+    openPR: 9
     closedIssue: 25
-    openIssue: 16
+    openIssue: 18
     commit: 84
   last180d:
     since: 2026-03-11
     release: 6
     mergedPR: 154
-    openPR: 11
+    openPR: 12
     closedIssue: 30
-    openIssue: 27
+    openIssue: 29
     commit: 149
   last360d:
     since: 2025-09-12
     release: 13
     mergedPR: 271
-    openPR: 14
+    openPR: 15
     closedIssue: 43
-    openIssue: 43
+    openIssue: 45
     commit: 273
   last720d:
     since: 2024-09-17
     release: 30
     mergedPR: 520
-    openPR: 18
+    openPR: 19
     closedIssue: 88
-    openIssue: 63
+    openIssue: 65
     commit: 584
 total:
   release: 77
   mergedPR: 1132
-  openPR: 20
+  openPR: 21
   closedIssue: 264
-  openIssue: 127
+  openIssue: 129
   commit: 2374
 ---
 path: /home/runner/.x-repo/github.com/oxigraph/oxigraph
-collectedAt: 2026-09-07T04:40:44Z
+collectedAt: 2026-09-07T19:45:54Z
 loc:
   Rust:
     code: 78348
@@ -298,7 +298,7 @@ checks:
       - 'Info: all commits (30) are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:40:44+00:00
+  collectedAt: 2026-09-07T19:45:56+00:00
   platform:
     darwin/arm64:
       name:  oxigraph_v0.5.11_aarch64_apple
