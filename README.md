@@ -12,6 +12,28 @@ SPARQL graph database
 x install oxigraph
 ```
 
+## Code insight
+
+Total: **90,184** lines of code across **208** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 78,752 | 1,259 | 5,639 | 159 |
+| Svg | 4,382 | 39 | 0 | 5 |
+| Json | 2,717 | 0 | 0 | 4 |
+| Python | 2,111 | 26 | 281 | 14 |
+| Toml | 1,117 | 3 | 123 | 26 |
+
+## OpenSSF Scorecard
+
+Overall score: **6.6 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (2/10) — Found 8/28 approved changesets -- score normalized to 2
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/oxigraph/oxigraph>
@@ -20,8 +42,27 @@ x install oxigraph
 ## Release
 
 - **Latest**: `v0.5.11` (2026-09-02)
-- **Last commit**: 2026-09-05
+- **Last commit**: 2026-09-10
 - **Assets in release**: 8
+
+## Popularity
+
+- **Stars**: 1,875 · **Forks**: 169 · **Open issues**: 393 · **Contributors**: 37
+
+## Totals (cumulative)
+
+- **Releases**: 77 · **Merged PRs**: 1134 · **Open PRs**: 20 · **Closed issues**: 264 · **Open issues**: 129 · **Commits**: 2376
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 2 | 38 | 5 | 12 | 11 | 32 |
+| last60d | 2026-07-12 | 2 | 67 | 7 | 17 | 17 | 64 |
+| 90d | 2026-06-12 | 3 | 88 | 8 | 24 | 18 | 86 |
+| last180d | 2026-03-14 | 6 | 155 | 11 | 30 | 29 | 151 |
+| 360d | 2025-09-15 | 12 | 267 | 14 | 43 | 45 | 275 |
+| last720d | 2024-09-20 | 30 | 522 | 18 | 88 | 65 | 584 |
 
 ## Release assets
 
@@ -36,43 +77,18 @@ x install oxigraph
 | [oxigraph_v0.5.11_x86_64_linux_gnu](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_x86_64_linux_gnu) | 21.1 MiB | `native/linux/x64/glibc` |
 | [oxigraph_v0.5.11_x86_64_windows_msvc.exe](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_x86_64_windows_msvc.exe) | 13.1 MiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 1,874 · **Forks**: 169 · **Open issues**: 393 · **Contributors**: 37
+Reported by **28** distros on [repology.org](https://repology.org/project/oxigraph). **3** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 77 · **Merged PRs**: 1132 · **Open PRs**: 21 · **Closed issues**: 264 · **Open issues**: 129 · **Commits**: 2374
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 36 | 6 | 12 | 11 | 30 |
-| 90d | 2026-06-12 | 3 | 86 | 9 | 24 | 18 | 84 |
-| 360d | 2025-09-15 | 12 | 265 | 15 | 43 | 45 | 273 |
-
-## Code size
-
-Total: **89,781** lines of code across **208** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 78,348 | 1,259 | 5,637 | 159 |
-| Svg | 4,382 | 39 | 0 | 5 |
-| Json | 2,717 | 0 | 0 | 4 |
-| Python | 2,111 | 26 | 281 | 14 |
-| Toml | 1,118 | 3 | 123 | 26 |
-
-## OpenSSF Scorecard
-
-Overall score: **6.6 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (2/10) — Found 8/28 approved changesets -- score normalized to 2
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.5.6` | 🪦 legacy |
+| Debian 14 | `0.5.6` | 🪦 legacy |
+| Debian 13 | `0.4.9` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.5.5` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.3.22` | ⚠️ outdated |
+| Nix unstable | `0.5.10` | ✅ latest |
 
 ## Improve this data
 
@@ -83,4 +99,4 @@ Install metadata for oxigraph lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:44:14Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:50:39Z._
