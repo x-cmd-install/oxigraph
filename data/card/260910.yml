@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.11"
   latestRelease: "v0.5.11"
   latestPrerelease: "v0.5.3-post.1"
-  collectedAt: 2026-09-10T04:40:57Z
+  collectedAt: 2026-09-10T16:44:05Z
 timeline:
   created: 2018-05-16
   lastCommit: 2026-09-05
@@ -92,7 +92,7 @@ total:
   commit: 2374
 ---
 path: /home/runner/.x-repo/github.com/oxigraph/oxigraph
-collectedAt: 2026-09-10T04:41:01Z
+collectedAt: 2026-09-10T16:44:08Z
 loc:
   Rust:
     code: 78348
