@@ -4,7 +4,7 @@
 
 SPARQL graph database
 
-![oxigraph](https://repo.x-cmd.io/oxigraph.svg)
+![oxigraph](https://repo.x-cmd.io/oxigraph.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,19 @@ x install oxigraph
 - **最新版本**: `v0.5.11` (2026-09-02)
 - **最近提交**: 2026-09-05
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-09-02T19:18:29Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [oxigraph_v0.5.11.tar.gz](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11.tar.gz) | 226.8 MiB | `native/unknown` |
+| [oxigraph_v0.5.11.zip](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11.zip) | 117.9 MiB | `other` |
+| [oxigraph_v0.5.11_aarch64_apple](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_aarch64_apple) | 15.8 MiB | `other` |
+| [oxigraph_v0.5.11_aarch64_linux_gnu](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_aarch64_linux_gnu) | 19.0 MiB | `native/linux/arm64/glibc` |
+| [oxigraph_v0.5.11_aarch64_windows_msvc.exe](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_aarch64_windows_msvc.exe) | 12.2 MiB | `native/win/arm64` |
+| [oxigraph_v0.5.11_x86_64_apple](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_x86_64_apple) | 17.7 MiB | `other` |
+| [oxigraph_v0.5.11_x86_64_linux_gnu](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_x86_64_linux_gnu) | 21.1 MiB | `native/linux/x64/glibc` |
+| [oxigraph_v0.5.11_x86_64_windows_msvc.exe](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_x86_64_windows_msvc.exe) | 13.1 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -71,4 +83,4 @@ oxigraph 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:41:07Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:44:15Z._

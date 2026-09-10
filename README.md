@@ -22,7 +22,19 @@ x install oxigraph
 - **Latest**: `v0.5.11` (2026-09-02)
 - **Last commit**: 2026-09-05
 - **Assets in release**: 8
-- **Published**: 2026-09-02T19:18:29Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [oxigraph_v0.5.11.tar.gz](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11.tar.gz) | 226.8 MiB | `native/unknown` |
+| [oxigraph_v0.5.11.zip](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11.zip) | 117.9 MiB | `other` |
+| [oxigraph_v0.5.11_aarch64_apple](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_aarch64_apple) | 15.8 MiB | `other` |
+| [oxigraph_v0.5.11_aarch64_linux_gnu](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_aarch64_linux_gnu) | 19.0 MiB | `native/linux/arm64/glibc` |
+| [oxigraph_v0.5.11_aarch64_windows_msvc.exe](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_aarch64_windows_msvc.exe) | 12.2 MiB | `native/win/arm64` |
+| [oxigraph_v0.5.11_x86_64_apple](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_x86_64_apple) | 17.7 MiB | `other` |
+| [oxigraph_v0.5.11_x86_64_linux_gnu](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_x86_64_linux_gnu) | 21.1 MiB | `native/linux/x64/glibc` |
+| [oxigraph_v0.5.11_x86_64_windows_msvc.exe](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_x86_64_windows_msvc.exe) | 13.1 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -67,8 +79,8 @@ Lowest-scoring checks:
 Install metadata for oxigraph lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `oxigraph` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/oxigraph.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/oxigraph.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:41:06Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:44:14Z._
