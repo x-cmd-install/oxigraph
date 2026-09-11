@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.11"
   latestRelease: "v0.5.11"
   latestPrerelease: "v0.5.3-post.1"
-  collectedAt: 2026-09-11T04:39:40Z
+  collectedAt: 2026-09-11T20:20:25Z
 timeline:
   created: 2018-05-16
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-02
   lastPrerelease: 2025-12-19
 popularity:
-  star: 1875
+  star: 1877
   watcher: 31
   fork: 169
   release: 77
   contributor: 37
-  pullRequest: 1443
+  pullRequest: 1444
   issue: 393
 language:
   Rust: 3565645
@@ -39,7 +39,7 @@ recent:
     since: 2026-08-12
     release: 2
     mergedPR: 35
-    openPR: 5
+    openPR: 6
     closedIssue: 11
     openIssue: 11
     commit: 32
@@ -47,7 +47,7 @@ recent:
     since: 2026-07-13
     release: 2
     mergedPR: 65
-    openPR: 7
+    openPR: 8
     closedIssue: 17
     openIssue: 17
     commit: 64
@@ -55,7 +55,7 @@ recent:
     since: 2026-06-13
     release: 3
     mergedPR: 88
-    openPR: 8
+    openPR: 9
     closedIssue: 24
     openIssue: 18
     commit: 86
@@ -63,7 +63,7 @@ recent:
     since: 2026-03-15
     release: 5
     mergedPR: 155
-    openPR: 11
+    openPR: 12
     closedIssue: 30
     openIssue: 29
     commit: 151
@@ -71,7 +71,7 @@ recent:
     since: 2025-09-16
     release: 12
     mergedPR: 265
-    openPR: 14
+    openPR: 15
     closedIssue: 43
     openIssue: 45
     commit: 275
@@ -79,20 +79,20 @@ recent:
     since: 2024-09-21
     release: 30
     mergedPR: 522
-    openPR: 18
+    openPR: 19
     closedIssue: 88
     openIssue: 65
     commit: 584
 total:
   release: 77
   mergedPR: 1134
-  openPR: 20
+  openPR: 21
   closedIssue: 264
   openIssue: 129
   commit: 2376
 ---
 path: /home/runner/.x-repo/github.com/oxigraph/oxigraph
-collectedAt: 2026-09-11T04:39:43Z
+collectedAt: 2026-09-11T20:20:44Z
 loc:
   Rust:
     code: 78752
