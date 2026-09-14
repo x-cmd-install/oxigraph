@@ -14,15 +14,15 @@ x install oxigraph
 
 ## Code insight
 
-Total: **90,011** lines of code across **208** files in the top 5 languages.
+Total: **85,574** lines of code across **205** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 78,579 | 1,248 | 5,623 | 159 |
-| Svg | 4,382 | 39 | 0 | 5 |
+| Rust | 78,657 | 1,254 | 5,623 | 159 |
 | Json | 2,717 | 0 | 0 | 4 |
-| Python | 2,111 | 26 | 281 | 14 |
+| Python | 1,945 | 25 | 250 | 11 |
 | Toml | 1,117 | 3 | 123 | 26 |
+| TypeScript | 479 | 3 | 62 | 5 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.11` (2026-09-02)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-13
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 1,877 · **Forks**: 169 · **Open issues**: 393 · **Contributors**: 37
+- **Stars**: 1,881 · **Forks**: 169 · **Open issues**: 393 · **Contributors**: 37
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 1145 · **Open PRs**: 22 · **Closed issues**: 264 · **Open issues**: 129 · **Commits**: 2389
+- **Releases**: 77 · **Merged PRs**: 1150 · **Open PRs**: 20 · **Closed issues**: 264 · **Open issues**: 129 · **Commits**: 2394
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 45 | 6 | 10 | 10 | 38 |
-| last60d | 2026-07-15 | 2 | 74 | 9 | 17 | 16 | 70 |
-| 90d | 2026-06-15 | 3 | 98 | 10 | 24 | 18 | 96 |
-| last180d | 2026-03-17 | 5 | 166 | 13 | 30 | 29 | 164 |
-| 360d | 2025-09-18 | 12 | 270 | 16 | 43 | 43 | 280 |
-| last720d | 2024-09-23 | 29 | 532 | 20 | 88 | 65 | 596 |
+| 30d | 2026-08-15 | 2 | 49 | 4 | 9 | 6 | 43 |
+| last60d | 2026-07-16 | 2 | 77 | 7 | 17 | 16 | 75 |
+| 90d | 2026-06-16 | 3 | 103 | 8 | 24 | 18 | 101 |
+| last180d | 2026-03-18 | 5 | 171 | 11 | 30 | 29 | 169 |
+| 360d | 2025-09-19 | 12 | 273 | 14 | 43 | 43 | 285 |
+| last720d | 2024-09-24 | 29 | 537 | 18 | 88 | 65 | 601 |
 
 ## Release assets
 
@@ -77,19 +77,6 @@ Lowest-scoring checks:
 | [oxigraph_v0.5.11_x86_64_linux_gnu](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_x86_64_linux_gnu) | 21.1 MiB | `native/linux/x64/glibc` |
 | [oxigraph_v0.5.11_x86_64_windows_msvc.exe](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_x86_64_windows_msvc.exe) | 13.1 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **29** distros on [repology.org](https://repology.org/project/oxigraph). **4** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.5.6` | 🪦 legacy |
-| Debian 14 | `0.5.6` | 🪦 legacy |
-| Debian 13 | `0.4.9` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.5.5` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.3.22` | ⚠️ outdated |
-| Nix unstable | `0.5.10` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for oxigraph lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `oxigraph` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +86,4 @@ Install metadata for oxigraph lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:50:00Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:12:28Z._
