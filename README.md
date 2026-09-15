@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,881 · **Forks**: 169 · **Open issues**: 393 · **Contributors**: 37
+- **Stars**: 1,882 · **Forks**: 169 · **Open issues**: 393 · **Contributors**: 37
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 2 | 49 | 4 | 9 | 6 | 43 |
-| last60d | 2026-07-16 | 2 | 77 | 7 | 17 | 16 | 75 |
-| 90d | 2026-06-16 | 3 | 103 | 8 | 24 | 18 | 101 |
-| last180d | 2026-03-18 | 5 | 171 | 11 | 30 | 29 | 169 |
-| 360d | 2025-09-19 | 12 | 273 | 14 | 43 | 43 | 285 |
-| last720d | 2024-09-24 | 29 | 537 | 18 | 88 | 65 | 601 |
+| 30d | 2026-08-16 | 2 | 47 | 4 | 8 | 6 | 43 |
+| last60d | 2026-07-17 | 2 | 76 | 7 | 17 | 16 | 75 |
+| 90d | 2026-06-17 | 3 | 101 | 7 | 24 | 18 | 101 |
+| last180d | 2026-03-19 | 5 | 171 | 11 | 30 | 29 | 169 |
+| 360d | 2025-09-20 | 12 | 273 | 14 | 43 | 43 | 285 |
+| last720d | 2024-09-25 | 29 | 537 | 18 | 88 | 65 | 601 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for oxigraph lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:12:28Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:11:07Z._
