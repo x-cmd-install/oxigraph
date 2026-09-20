@@ -4,7 +4,7 @@
 
 SPARQL graph database
 
-![oxigraph](https://repo.x-cmd.io/oxigraph.svg?lang=zh)
+[![x-cmd/install — oxigraph Code Quality Monitoring Repo Card](https://repo.x-cmd.io/oxigraph.svg?lang=zh)](https://x-cmd.com/install/oxigraph)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install oxigraph
 
 ## 流行度
 
-- **Star**: 1,913 · **Fork**: 173 · **开放 issue**: 395 · **贡献者**: 37
+- **Star**: 1,924 · **Fork**: 177 · **开放 issue**: 395 · **贡献者**: 37
 
 ## 累计统计
 
-- **发布数**: 77 · **已合并 PR**: 1157 · **开放 PR**: 22 · **已关闭 issue**: 264 · **开放 issue**: 131 · **提交数**: 2401
+- **发布数**: 77 · **已合并 PR**: 1157 · **开放 PR**: 23 · **已关闭 issue**: 264 · **开放 issue**: 131 · **提交数**: 2401
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 52 | 6 | 7 | 8 | 50 |
-| last60d | 2026-07-20 | 2 | 80 | 9 | 17 | 18 | 82 |
-| 90d | 2026-06-20 | 2 | 107 | 9 | 24 | 20 | 108 |
-| last180d | 2026-03-22 | 5 | 178 | 13 | 30 | 31 | 176 |
-| 360d | 2025-09-23 | 12 | 279 | 16 | 43 | 44 | 292 |
-| last720d | 2024-09-28 | 29 | 542 | 20 | 88 | 67 | 608 |
+| 30d | 2026-08-21 | 2 | 52 | 7 | 6 | 7 | 50 |
+| last60d | 2026-07-22 | 2 | 79 | 10 | 17 | 17 | 82 |
+| 90d | 2026-06-22 | 2 | 107 | 10 | 24 | 20 | 108 |
+| last180d | 2026-03-24 | 5 | 178 | 14 | 29 | 29 | 176 |
+| 360d | 2025-09-25 | 12 | 279 | 17 | 43 | 44 | 292 |
+| last720d | 2024-09-30 | 29 | 542 | 21 | 88 | 67 | 608 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ oxigraph 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:42:24Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:57:49Z._

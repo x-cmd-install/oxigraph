@@ -4,7 +4,7 @@
 
 SPARQL graph database
 
-![oxigraph](https://repo.x-cmd.io/oxigraph.svg)
+[![x-cmd/install — oxigraph Code Quality Monitoring Repo Card](https://repo.x-cmd.io/oxigraph.svg)](https://x-cmd.com/install/oxigraph)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,913 · **Forks**: 173 · **Open issues**: 395 · **Contributors**: 37
+- **Stars**: 1,924 · **Forks**: 177 · **Open issues**: 395 · **Contributors**: 37
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 1157 · **Open PRs**: 22 · **Closed issues**: 264 · **Open issues**: 131 · **Commits**: 2401
+- **Releases**: 77 · **Merged PRs**: 1157 · **Open PRs**: 23 · **Closed issues**: 264 · **Open issues**: 131 · **Commits**: 2401
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 52 | 6 | 7 | 8 | 50 |
-| last60d | 2026-07-20 | 2 | 80 | 9 | 17 | 18 | 82 |
-| 90d | 2026-06-20 | 2 | 107 | 9 | 24 | 20 | 108 |
-| last180d | 2026-03-22 | 5 | 178 | 13 | 30 | 31 | 176 |
-| 360d | 2025-09-23 | 12 | 279 | 16 | 43 | 44 | 292 |
-| last720d | 2024-09-28 | 29 | 542 | 20 | 88 | 67 | 608 |
+| 30d | 2026-08-21 | 2 | 52 | 7 | 6 | 7 | 50 |
+| last60d | 2026-07-22 | 2 | 79 | 10 | 17 | 17 | 82 |
+| 90d | 2026-06-22 | 2 | 107 | 10 | 24 | 20 | 108 |
+| last180d | 2026-03-24 | 5 | 178 | 14 | 29 | 29 | 176 |
+| 360d | 2025-09-25 | 12 | 279 | 17 | 43 | 44 | 292 |
+| last720d | 2024-09-30 | 29 | 542 | 21 | 88 | 67 | 608 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for oxigraph lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:42:23Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:57:49Z._
