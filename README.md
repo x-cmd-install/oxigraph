@@ -4,7 +4,7 @@
 
 SPARQL graph database
 
-[![x-cmd/install — oxigraph Code Quality Monitoring Repo Card](https://repo.x-cmd.io/oxigraph.svg)](https://x-cmd.com/install/oxigraph)
+[![x-cmd/install — oxigraph Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/oxigraph.svg)](https://x-cmd.com/install/oxigraph)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install oxigraph
 
 ## Code insight
 
-Total: **85,716** lines of code across **205** files in the top 5 languages.
+Total: **85,828** lines of code across **205** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 78,778 | 1,253 | 5,628 | 159 |
+| Rust | 78,890 | 1,262 | 5,647 | 159 |
 | Json | 2,738 | 0 | 0 | 4 |
 | Python | 1,945 | 25 | 250 | 11 |
 | Toml | 1,117 | 3 | 123 | 26 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.11` (2026-09-02)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-22
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 1,941 · **Forks**: 178 · **Open issues**: 395 · **Contributors**: 37
+- **Stars**: 1,943 · **Forks**: 178 · **Open issues**: 395 · **Contributors**: 39
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 1157 · **Open PRs**: 23 · **Closed issues**: 264 · **Open issues**: 131 · **Commits**: 2401
+- **Releases**: 77 · **Merged PRs**: 1159 · **Open PRs**: 24 · **Closed issues**: 264 · **Open issues**: 131 · **Commits**: 2404
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 44 | 7 | 5 | 7 | 37 |
-| last60d | 2026-07-24 | 2 | 77 | 10 | 17 | 17 | 77 |
-| 90d | 2026-06-24 | 2 | 107 | 10 | 24 | 20 | 101 |
-| last180d | 2026-03-26 | 5 | 178 | 14 | 29 | 28 | 172 |
-| 360d | 2025-09-27 | 12 | 277 | 17 | 43 | 44 | 288 |
-| last720d | 2024-10-02 | 29 | 541 | 21 | 88 | 67 | 608 |
+| 30d | 2026-08-24 | 2 | 45 | 8 | 4 | 6 | 40 |
+| last60d | 2026-07-25 | 2 | 77 | 11 | 16 | 17 | 80 |
+| 90d | 2026-06-25 | 2 | 109 | 11 | 24 | 20 | 104 |
+| last180d | 2026-03-27 | 5 | 180 | 15 | 29 | 28 | 175 |
+| 360d | 2025-09-28 | 12 | 278 | 18 | 43 | 43 | 291 |
+| last720d | 2024-10-03 | 29 | 541 | 22 | 88 | 67 | 611 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for oxigraph lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:54:01Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:51:33Z._
