@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 1163 · **Open PRs**: 23 · **Closed issues**: 267 · **Open issues**: 130 · **Commits**: 2408
+- **Releases**: 77 · **Merged PRs**: 1163 · **Open PRs**: 24 · **Closed issues**: 267 · **Open issues**: 130 · **Commits**: 2408
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 1 | 30 | 5 | 2 | 4 | 32 |
-| last60d | 2026-08-03 | 2 | 72 | 9 | 18 | 14 | 76 |
-| 90d | 2026-07-04 | 2 | 105 | 10 | 22 | 18 | 107 |
-| last180d | 2026-04-05 | 5 | 179 | 14 | 30 | 27 | 178 |
-| 360d | 2025-10-07 | 12 | 278 | 17 | 45 | 41 | 291 |
-| last720d | 2024-10-12 | 29 | 524 | 21 | 89 | 66 | 594 |
+| 30d | 2026-09-03 | 0 | 30 | 6 | 2 | 4 | 32 |
+| last60d | 2026-08-04 | 2 | 72 | 10 | 18 | 13 | 76 |
+| 90d | 2026-07-05 | 2 | 105 | 11 | 22 | 18 | 107 |
+| last180d | 2026-04-06 | 5 | 179 | 15 | 30 | 27 | 178 |
+| 360d | 2025-10-08 | 12 | 278 | 18 | 45 | 41 | 291 |
+| last720d | 2024-10-13 | 29 | 522 | 22 | 89 | 66 | 587 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for oxigraph lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:38:30Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:19:26Z._
