@@ -14,11 +14,11 @@ x install oxigraph
 
 ## Code insight
 
-Total: **85,585** lines of code across **205** files in the top 5 languages.
+Total: **85,659** lines of code across **205** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 78,646 | 1,248 | 5,611 | 159 |
+| Rust | 78,720 | 1,250 | 5,614 | 159 |
 | Json | 2,738 | 0 | 0 | 4 |
 | Python | 1,945 | 25 | 250 | 11 |
 | Toml | 1,118 | 3 | 124 | 26 |
@@ -41,41 +41,41 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.5.11` (2026-09-02)
-- **Last commit**: 2026-10-17
+- **Latest**: `0.5.12` (2026-10-18)
+- **Last commit**: 2026-10-18
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 1,996 · **Forks**: 181 · **Open issues**: 402 · **Contributors**: 39
+- **Stars**: 1,997 · **Forks**: 183 · **Open issues**: 402 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 1172 · **Open PRs**: 25 · **Closed issues**: 267 · **Open issues**: 135 · **Commits**: 2418
+- **Releases**: 78 · **Merged PRs**: 1176 · **Open PRs**: 23 · **Closed issues**: 269 · **Open issues**: 133 · **Commits**: 2421
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 14 | 6 | 2 | 5 | 9 |
-| last60d | 2026-08-19 | 2 | 67 | 9 | 10 | 12 | 58 |
-| 90d | 2026-07-20 | 2 | 95 | 12 | 20 | 22 | 94 |
-| last180d | 2026-04-21 | 4 | 178 | 15 | 30 | 31 | 170 |
-| 360d | 2025-10-23 | 11 | 279 | 19 | 45 | 44 | 286 |
-| last720d | 2024-10-28 | 28 | 515 | 23 | 88 | 70 | 580 |
+| 30d | 2026-09-19 | 1 | 17 | 4 | 3 | 4 | 12 |
+| last60d | 2026-08-20 | 3 | 71 | 7 | 12 | 10 | 61 |
+| 90d | 2026-07-21 | 3 | 99 | 10 | 22 | 20 | 97 |
+| last180d | 2026-04-22 | 5 | 181 | 13 | 32 | 27 | 173 |
+| 360d | 2025-10-24 | 12 | 282 | 17 | 46 | 42 | 289 |
+| last720d | 2024-10-29 | 29 | 518 | 21 | 90 | 68 | 582 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [oxigraph_v0.5.11.tar.gz](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11.tar.gz) | 226.8 MiB | `native/unknown` |
-| [oxigraph_v0.5.11.zip](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11.zip) | 117.9 MiB | `other` |
-| [oxigraph_v0.5.11_aarch64_apple](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_aarch64_apple) | 15.8 MiB | `other` |
-| [oxigraph_v0.5.11_aarch64_linux_gnu](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_aarch64_linux_gnu) | 19.0 MiB | `native/linux/arm64/glibc` |
-| [oxigraph_v0.5.11_aarch64_windows_msvc.exe](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_aarch64_windows_msvc.exe) | 12.2 MiB | `native/win/arm64` |
-| [oxigraph_v0.5.11_x86_64_apple](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_x86_64_apple) | 17.7 MiB | `other` |
-| [oxigraph_v0.5.11_x86_64_linux_gnu](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_x86_64_linux_gnu) | 21.1 MiB | `native/linux/x64/glibc` |
-| [oxigraph_v0.5.11_x86_64_windows_msvc.exe](https://github.com/oxigraph/oxigraph/releases/download/v0.5.11/oxigraph_v0.5.11_x86_64_windows_msvc.exe) | 13.1 MiB | `native/win/x64` |
+| [oxigraph_0.5.12.tar.gz](https://github.com/oxigraph/oxigraph/releases/download/0.5.12/oxigraph_0.5.12.tar.gz) | 226.8 MiB | `native/unknown` |
+| [oxigraph_0.5.12.zip](https://github.com/oxigraph/oxigraph/releases/download/0.5.12/oxigraph_0.5.12.zip) | 117.9 MiB | `other` |
+| [oxigraph_0.5.12_aarch64_apple](https://github.com/oxigraph/oxigraph/releases/download/0.5.12/oxigraph_0.5.12_aarch64_apple) | 15.8 MiB | `other` |
+| [oxigraph_0.5.12_aarch64_linux_gnu](https://github.com/oxigraph/oxigraph/releases/download/0.5.12/oxigraph_0.5.12_aarch64_linux_gnu) | 19.0 MiB | `native/linux/arm64/glibc` |
+| [oxigraph_0.5.12_aarch64_windows_msvc.exe](https://github.com/oxigraph/oxigraph/releases/download/0.5.12/oxigraph_0.5.12_aarch64_windows_msvc.exe) | 12.4 MiB | `native/win/arm64` |
+| [oxigraph_0.5.12_x86_64_apple](https://github.com/oxigraph/oxigraph/releases/download/0.5.12/oxigraph_0.5.12_x86_64_apple) | 17.7 MiB | `other` |
+| [oxigraph_0.5.12_x86_64_linux_gnu](https://github.com/oxigraph/oxigraph/releases/download/0.5.12/oxigraph_0.5.12_x86_64_linux_gnu) | 21.2 MiB | `native/linux/x64/glibc` |
+| [oxigraph_0.5.12_x86_64_windows_msvc.exe](https://github.com/oxigraph/oxigraph/releases/download/0.5.12/oxigraph_0.5.12_x86_64_windows_msvc.exe) | 13.1 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for oxigraph lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:27:19Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:38:02Z._
