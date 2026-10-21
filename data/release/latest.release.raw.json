@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 237844503,
       "digest": "sha256:b1c561b0a1dad96bc935ee672e3619846722ea4ce8869be634fb5d77a0ba283f",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-10-18T19:33:16Z",
       "updated_at": "2026-10-18T19:33:24Z",
       "browser_download_url": "https://github.com/oxigraph/oxigraph/releases/download/0.5.12/oxigraph_0.5.12.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 16570336,
       "digest": "sha256:1bda8b9ae6d5ff858fc55381deec65daa6f91df8734e4b49419e0fdc6d35e1ef",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2026-10-18T19:56:00Z",
       "updated_at": "2026-10-18T19:56:01Z",
       "browser_download_url": "https://github.com/oxigraph/oxigraph/releases/download/0.5.12/oxigraph_0.5.12_aarch64_apple"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 22222192,
       "digest": "sha256:1f963cccd713086ac30b063add248e0e05c734e86c221d5dfb08293b583f3c01",
-      "download_count": 9,
+      "download_count": 15,
       "created_at": "2026-10-18T19:45:43Z",
       "updated_at": "2026-10-18T19:45:44Z",
       "browser_download_url": "https://github.com/oxigraph/oxigraph/releases/download/0.5.12/oxigraph_0.5.12_x86_64_linux_gnu"
