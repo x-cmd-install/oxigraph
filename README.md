@@ -14,12 +14,12 @@ x install oxigraph
 
 ## Code insight
 
-Total: **85,218** lines of code across **205** files in the top 5 languages.
+Total: **85,254** lines of code across **205** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 78,780 | 1,256 | 5,616 | 159 |
-| Json | 2,239 | 0 | 0 | 4 |
+| Json | 2,275 | 0 | 0 | 4 |
 | Python | 1,945 | 25 | 250 | 11 |
 | Toml | 1,118 | 3 | 124 | 26 |
 | TypeScript | 479 | 3 | 62 | 5 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.13` (2026-10-22)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 2,002 · **Forks**: 184 · **Open issues**: 407 · **Contributors**: 41
+- **Stars**: 2,003 · **Forks**: 184 · **Open issues**: 407 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 1183 · **Open PRs**: 26 · **Closed issues**: 271 · **Open issues**: 136 · **Commits**: 2427
+- **Releases**: 79 · **Merged PRs**: 1186 · **Open PRs**: 21 · **Closed issues**: 271 · **Open issues**: 136 · **Commits**: 2430
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 2 | 21 | 8 | 4 | 8 | 18 |
-| last60d | 2026-08-24 | 4 | 69 | 11 | 11 | 11 | 67 |
-| 90d | 2026-07-25 | 4 | 101 | 13 | 23 | 22 | 103 |
-| last180d | 2026-04-26 | 6 | 180 | 16 | 34 | 28 | 179 |
-| 360d | 2025-10-28 | 12 | 283 | 20 | 48 | 45 | 295 |
-| last720d | 2024-11-02 | 29 | 520 | 24 | 91 | 71 | 578 |
+| 30d | 2026-09-24 | 2 | 23 | 3 | 3 | 8 | 21 |
+| last60d | 2026-08-25 | 4 | 72 | 6 | 11 | 11 | 70 |
+| 90d | 2026-07-26 | 4 | 104 | 8 | 23 | 22 | 106 |
+| last180d | 2026-04-27 | 6 | 182 | 11 | 34 | 28 | 182 |
+| 360d | 2025-10-29 | 12 | 286 | 15 | 48 | 45 | 298 |
+| last720d | 2024-11-03 | 29 | 523 | 19 | 91 | 71 | 581 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for oxigraph lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:42:19Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:34:17Z._
