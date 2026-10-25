@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 237871109,
       "digest": "sha256:1c5f1f1dbe771f17c1997466d2e7852f26b87a237fd7330370692ca91108e1b2",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-10-22T19:02:30Z",
       "updated_at": "2026-10-22T19:02:46Z",
       "browser_download_url": "https://github.com/oxigraph/oxigraph/releases/download/v0.5.13/oxigraph_v0.5.13.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 123634517,
       "digest": "sha256:7f77d0579225a8d48897d9b3e9ae10479b3f7502edafb77154d3e51aa3a91794",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-22T19:02:30Z",
       "updated_at": "2026-10-22T19:02:35Z",
       "browser_download_url": "https://github.com/oxigraph/oxigraph/releases/download/v0.5.13/oxigraph_v0.5.13.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 16587136,
       "digest": "sha256:531e7052df7a7a1a7b06be6329f1db1fa5d1e0401377e28ccd8d9d580ea6299b",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-22T19:11:20Z",
       "updated_at": "2026-10-22T19:11:21Z",
       "browser_download_url": "https://github.com/oxigraph/oxigraph/releases/download/v0.5.13/oxigraph_v0.5.13_aarch64_apple"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 22221832,
       "digest": "sha256:05f54af6d7ebd73888a600bcf25017ef304c51726428f6dae10d32e9185618be",
-      "download_count": 10,
+      "download_count": 18,
       "created_at": "2026-10-22T19:01:40Z",
       "updated_at": "2026-10-22T19:01:42Z",
       "browser_download_url": "https://github.com/oxigraph/oxigraph/releases/download/v0.5.13/oxigraph_v0.5.13_x86_64_linux_gnu"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 13740544,
       "digest": "sha256:ca5c37e7e3c320becb2b25292c51975d6c07d4f04ea18e47bd4f316e6972684c",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2026-10-22T19:05:58Z",
       "updated_at": "2026-10-22T19:05:59Z",
       "browser_download_url": "https://github.com/oxigraph/oxigraph/releases/download/v0.5.13/oxigraph_v0.5.13_x86_64_windows_msvc.exe"
