@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,003 · **Forks**: 185 · **Open issues**: 407 · **Contributors**: 41
+- **Stars**: 2,004 · **Forks**: 185 · **Open issues**: 409 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 1186 · **Open PRs**: 21 · **Closed issues**: 271 · **Open issues**: 136 · **Commits**: 2430
+- **Releases**: 79 · **Merged PRs**: 1186 · **Open PRs**: 21 · **Closed issues**: 271 · **Open issues**: 138 · **Commits**: 2430
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 23 | 3 | 2 | 8 | 19 |
-| last60d | 2026-08-27 | 4 | 69 | 6 | 10 | 11 | 54 |
-| 90d | 2026-07-28 | 4 | 104 | 8 | 23 | 20 | 100 |
-| last180d | 2026-04-29 | 5 | 178 | 11 | 33 | 28 | 172 |
-| 360d | 2025-10-31 | 12 | 286 | 15 | 48 | 44 | 297 |
-| last720d | 2024-11-05 | 29 | 521 | 19 | 89 | 71 | 581 |
+| 30d | 2026-09-27 | 2 | 23 | 3 | 2 | 10 | 19 |
+| last60d | 2026-08-28 | 4 | 68 | 6 | 8 | 13 | 54 |
+| 90d | 2026-07-29 | 4 | 104 | 8 | 22 | 22 | 100 |
+| last180d | 2026-04-30 | 5 | 178 | 11 | 33 | 30 | 172 |
+| 360d | 2025-11-01 | 12 | 286 | 15 | 48 | 46 | 297 |
+| last720d | 2024-11-06 | 29 | 518 | 19 | 89 | 73 | 581 |
 
 ## Release assets
 
@@ -79,11 +79,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **24** distros on [repology.org](https://repology.org/project/oxigraph). **1** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
+Reported by **28** distros on [repology.org](https://repology.org/project/oxigraph). **1** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `0.5.8` | 🪦 legacy |
+| Debian 14 | `0.5.8` | 🪦 legacy |
 | Debian 13 | `0.4.9` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.5.5` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.3.22` | ⚠️ outdated |
@@ -98,4 +99,4 @@ Install metadata for oxigraph lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:44:31Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:01:05Z._
