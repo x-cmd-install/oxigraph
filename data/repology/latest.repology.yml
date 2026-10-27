@@ -55,6 +55,90 @@
     - dr@jones.dk
   categories:
     - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: oxigraph
+  binnames:
+    - oxigraph
+    - libjs-oxigraph
+    - node-oxigraph
+    - librust-oxrdf-dev
+    - librust-oxsdatatypes-dev
+    - librust-sparesults-dev
+    - librust-spargebra-dev
+    - librust-oxigraph-dev
+    - librust-oxrocksdb-sys-dev
+  visiblename: oxigraph
+  version: 0.5.8
+  origversion: 0.5.8+ds-3
+  status: legacy
+  maintainers:
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: oxigraph
+  binnames:
+    - oxigraph
+    - libjs-oxigraph
+    - node-oxigraph
+    - librust-oxrdf-dev
+    - librust-oxsdatatypes-dev
+    - librust-sparesults-dev
+    - librust-spargebra-dev
+    - librust-oxigraph-dev
+    - librust-oxrocksdb-sys-dev
+  visiblename: oxigraph
+  version: 0.5.9
+  origversion: 0.5.9+ds-3
+  status: legacy
+  maintainers:
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: oxigraph
+  binnames:
+    - oxigraph
+    - libjs-oxigraph
+    - node-oxigraph
+    - librust-oxrdf-dev
+    - librust-oxsdatatypes-dev
+    - librust-sparesults-dev
+    - librust-spargebra-dev
+    - librust-oxigraph-dev
+    - librust-oxrocksdb-sys-dev
+  visiblename: oxigraph
+  version: 0.5.11
+  origversion: 0.5.11+ds-1
+  status: legacy
+  maintainers:
+    - dr@jones.dk
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: oxigraph
+  binnames:
+    - oxigraph
+    - libjs-oxigraph
+    - node-oxigraph
+    - librust-oxrdf-dev
+    - librust-oxsdatatypes-dev
+    - librust-sparesults-dev
+    - librust-spargebra-dev
+    - librust-oxigraph-dev
+    - librust-oxrocksdb-sys-dev
+  visiblename: oxigraph
+  version: 0.5.12
+  origversion: 0.5.12+ds-1
+  status: outdated
+  maintainers:
+    - dr@jones.dk
+  categories:
+    - misc
 - repo: debian_unstable
   subrepo: sid/main
   srcname: oxigraph
