@@ -14,11 +14,11 @@ x install oxigraph
 
 ## Code insight
 
-Total: **85,254** lines of code across **205** files in the top 5 languages.
+Total: **85,269** lines of code across **205** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 78,780 | 1,256 | 5,616 | 159 |
+| Rust | 78,795 | 1,257 | 5,618 | 159 |
 | Json | 2,275 | 0 | 0 | 4 |
 | Python | 1,945 | 25 | 250 | 11 |
 | Toml | 1,118 | 3 | 124 | 26 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.13` (2026-10-22)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-02
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 2,020 · **Forks**: 190 · **Open issues**: 412 · **Contributors**: 41
+- **Stars**: 2,023 · **Forks**: 190 · **Open issues**: 412 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 1188 · **Open PRs**: 27 · **Closed issues**: 271 · **Open issues**: 141 · **Commits**: 2431
+- **Releases**: 79 · **Merged PRs**: 1190 · **Open PRs**: 25 · **Closed issues**: 271 · **Open issues**: 141 · **Commits**: 2433
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 23 | 8 | 2 | 13 | 18 |
-| last60d | 2026-09-03 | 2 | 55 | 11 | 5 | 16 | 52 |
-| 90d | 2026-08-04 | 4 | 97 | 14 | 22 | 24 | 91 |
-| last180d | 2026-05-06 | 5 | 174 | 17 | 33 | 33 | 170 |
-| 360d | 2025-11-07 | 12 | 287 | 21 | 48 | 49 | 298 |
-| last720d | 2024-11-12 | 28 | 517 | 25 | 89 | 76 | 575 |
+| 30d | 2026-10-04 | 2 | 25 | 6 | 2 | 13 | 20 |
+| last60d | 2026-09-04 | 2 | 57 | 9 | 5 | 16 | 54 |
+| 90d | 2026-08-05 | 4 | 98 | 11 | 22 | 24 | 93 |
+| last180d | 2026-05-07 | 5 | 175 | 15 | 33 | 33 | 172 |
+| 360d | 2025-11-08 | 12 | 289 | 19 | 48 | 49 | 300 |
+| last720d | 2024-11-13 | 28 | 519 | 23 | 88 | 76 | 577 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for oxigraph lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:04:53Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:46:58Z._
