@@ -1,3 +1,15 @@
+- repo: nix_stable_25_05
+  srcname: oxigraph
+  visiblename: oxigraph
+  version: 0.4.9
+  origversion: null
+  status: outdated
+  summary: SPARQL graph database
+  maintainers:
+    - astro@spaceboyz.net
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: aur
   srcname: oxigraph
   binname: oxigraph
@@ -42,6 +54,19 @@
     - dr@jones.dk
   categories:
     - misc
+- repo: nix_stable_25_11
+  srcname: oxigraph
+  visiblename: oxigraph
+  version: 0.5.2
+  origversion: null
+  status: outdated
+  summary: SPARQL graph database
+  maintainers:
+    - astro@spaceboyz.net
+    - phil@grmr.de
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: debian_14
   subrepo: forky/main
   srcname: oxigraph
@@ -276,31 +301,6 @@
   licenses:
     - Apache-2.0
     - MIT
-- repo: nix_stable_25_05
-  srcname: oxigraph
-  visiblename: oxigraph
-  version: 0.4.9
-  origversion: null
-  status: outdated
-  summary: SPARQL graph database
-  maintainers:
-    - astro@spaceboyz.net
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: nix_stable_25_11
-  srcname: oxigraph
-  visiblename: oxigraph
-  version: 0.5.2
-  origversion: null
-  status: outdated
-  summary: SPARQL graph database
-  maintainers:
-    - astro@spaceboyz.net
-    - phil@grmr.de
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: nix_stable_26_05
   srcname: oxigraph
   visiblename: oxigraph
@@ -329,7 +329,7 @@
     - Apache-2.0
     - MIT
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: oxigraph
   binnames:
     - oxigraph
@@ -348,7 +348,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: oxigraph
   binnames:
     - oxigraph
@@ -503,6 +503,27 @@
     - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: oxigraph
+  binnames:
+    - oxigraph
+    - libjs-oxigraph
+    - node-oxigraph
+    - librust-oxrdf-dev
+    - librust-oxsdatatypes-dev
+    - librust-sparesults-dev
+    - librust-spargebra-dev
+    - librust-oxigraph-dev
+    - librust-oxrocksdb-sys-dev
+  visiblename: oxigraph
+  version: 0.5.10
+  origversion: 0.5.10+ds-1
+  status: outdated
+  maintainers:
+    - dr@jones.dk
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: oxigraph
   binnames:
     - oxigraph
