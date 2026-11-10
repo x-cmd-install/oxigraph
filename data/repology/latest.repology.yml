@@ -1,15 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: oxigraph
-  visiblename: oxigraph
-  version: 0.4.9
-  origversion: null
-  status: outdated
-  summary: SPARQL graph database
-  maintainers:
-    - astro@spaceboyz.net
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: aur
   srcname: oxigraph
   binname: oxigraph
@@ -54,19 +42,6 @@
     - dr@jones.dk
   categories:
     - misc
-- repo: nix_stable_25_11
-  srcname: oxigraph
-  visiblename: oxigraph
-  version: 0.5.2
-  origversion: null
-  status: outdated
-  summary: SPARQL graph database
-  maintainers:
-    - astro@spaceboyz.net
-    - phil@grmr.de
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: debian_14
   subrepo: forky/main
   srcname: oxigraph
@@ -298,6 +273,31 @@
   summary: SPARQL graph database
   maintainers:
     - astro@spaceboyz.net
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_25_05
+  srcname: oxigraph
+  visiblename: oxigraph
+  version: 0.4.9
+  origversion: null
+  status: outdated
+  summary: SPARQL graph database
+  maintainers:
+    - astro@spaceboyz.net
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_25_11
+  srcname: oxigraph
+  visiblename: oxigraph
+  version: 0.5.2
+  origversion: null
+  status: outdated
+  summary: SPARQL graph database
+  maintainers:
+    - astro@spaceboyz.net
+    - phil@grmr.de
   licenses:
     - Apache-2.0
     - MIT
@@ -538,6 +538,27 @@
   visiblename: oxigraph
   version: 0.5.10
   origversion: 0.5.10+ds-1
+  status: outdated
+  maintainers:
+    - dr@jones.dk
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04_proposed
+  subrepo: tenacious-proposed/universe
+  srcname: oxigraph
+  binnames:
+    - oxigraph
+    - libjs-oxigraph
+    - node-oxigraph
+    - librust-oxrdf-dev
+    - librust-oxsdatatypes-dev
+    - librust-sparesults-dev
+    - librust-spargebra-dev
+    - librust-oxigraph-dev
+    - librust-oxrocksdb-sys-dev
+  visiblename: oxigraph
+  version: 0.5.12
+  origversion: 0.5.12+ds-1
   status: outdated
   maintainers:
     - dr@jones.dk
