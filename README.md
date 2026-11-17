@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,048 · **Forks**: 194 · **Open issues**: 417 · **Contributors**: 44
+- **Stars**: 2,050 · **Forks**: 194 · **Open issues**: 417 · **Contributors**: 44
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 1196 · **Open PRs**: 28 · **Closed issues**: 274 · **Open issues**: 143 · **Commits**: 2439
+- **Releases**: 79 · **Merged PRs**: 1196 · **Open PRs**: 29 · **Closed issues**: 274 · **Open issues**: 143 · **Commits**: 2439
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 21 | 8 | 4 | 11 | 8 |
-| last60d | 2026-09-17 | 2 | 38 | 11 | 7 | 15 | 31 |
-| 90d | 2026-08-18 | 4 | 91 | 14 | 18 | 20 | 78 |
-| last180d | 2026-05-20 | 5 | 173 | 16 | 36 | 33 | 168 |
-| 360d | 2025-11-21 | 12 | 293 | 21 | 50 | 50 | 298 |
-| last720d | 2024-11-26 | 27 | 516 | 26 | 91 | 78 | 575 |
+| 30d | 2026-10-18 | 2 | 19 | 9 | 4 | 11 | 8 |
+| last60d | 2026-09-18 | 2 | 37 | 12 | 7 | 15 | 31 |
+| 90d | 2026-08-19 | 4 | 90 | 15 | 17 | 20 | 78 |
+| last180d | 2026-05-21 | 5 | 172 | 17 | 36 | 33 | 168 |
+| 360d | 2025-11-22 | 12 | 290 | 22 | 50 | 50 | 298 |
+| last720d | 2024-11-27 | 27 | 516 | 27 | 91 | 78 | 575 |
 
 ## Release assets
 
@@ -79,7 +79,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **31** distros on [repology.org](https://repology.org/project/oxigraph). **1** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
+Reported by **30** distros on [repology.org](https://repology.org/project/oxigraph). **1** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -99,4 +99,4 @@ Install metadata for oxigraph lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:33:13Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:00:06Z._
