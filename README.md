@@ -26,11 +26,11 @@ Total: **85,654** lines of code across **205** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.6 / 10**
+Overall score: **6.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 7/25 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 10/27 approved changesets -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,050 · **Forks**: 194 · **Open issues**: 417 · **Contributors**: 44
+- **Stars**: 2,055 · **Forks**: 195 · **Open issues**: 418 · **Contributors**: 44
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 1196 · **Open PRs**: 29 · **Closed issues**: 274 · **Open issues**: 143 · **Commits**: 2439
+- **Releases**: 79 · **Merged PRs**: 1196 · **Open PRs**: 30 · **Closed issues**: 274 · **Open issues**: 144 · **Commits**: 2439
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 19 | 9 | 4 | 11 | 8 |
-| last60d | 2026-09-18 | 2 | 37 | 12 | 7 | 15 | 31 |
-| 90d | 2026-08-19 | 4 | 90 | 15 | 17 | 20 | 78 |
-| last180d | 2026-05-21 | 5 | 172 | 17 | 36 | 33 | 168 |
-| 360d | 2025-11-22 | 12 | 290 | 22 | 50 | 50 | 298 |
-| last720d | 2024-11-27 | 27 | 516 | 27 | 91 | 78 | 575 |
+| 30d | 2026-10-20 | 1 | 14 | 9 | 3 | 11 | 8 |
+| last60d | 2026-09-20 | 2 | 36 | 13 | 7 | 16 | 31 |
+| 90d | 2026-08-21 | 4 | 90 | 16 | 16 | 20 | 78 |
+| last180d | 2026-05-23 | 5 | 171 | 18 | 36 | 34 | 168 |
+| 360d | 2025-11-24 | 12 | 288 | 23 | 50 | 51 | 298 |
+| last720d | 2024-11-29 | 27 | 515 | 28 | 91 | 79 | 572 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for oxigraph lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:00:06Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:44:21Z._

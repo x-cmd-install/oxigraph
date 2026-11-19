@@ -26,11 +26,11 @@ x install oxigraph
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.6 / 10**
+总评分: **6.7 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 7/25 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 10/27 approved changesets -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
@@ -47,22 +47,22 @@ x install oxigraph
 
 ## 流行度
 
-- **Star**: 2,050 · **Fork**: 194 · **开放 issue**: 417 · **贡献者**: 44
+- **Star**: 2,055 · **Fork**: 195 · **开放 issue**: 418 · **贡献者**: 44
 
 ## 累计统计
 
-- **发布数**: 79 · **已合并 PR**: 1196 · **开放 PR**: 29 · **已关闭 issue**: 274 · **开放 issue**: 143 · **提交数**: 2439
+- **发布数**: 79 · **已合并 PR**: 1196 · **开放 PR**: 30 · **已关闭 issue**: 274 · **开放 issue**: 144 · **提交数**: 2439
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 19 | 9 | 4 | 11 | 8 |
-| last60d | 2026-09-18 | 2 | 37 | 12 | 7 | 15 | 31 |
-| 90d | 2026-08-19 | 4 | 90 | 15 | 17 | 20 | 78 |
-| last180d | 2026-05-21 | 5 | 172 | 17 | 36 | 33 | 168 |
-| 360d | 2025-11-22 | 12 | 290 | 22 | 50 | 50 | 298 |
-| last720d | 2024-11-27 | 27 | 516 | 27 | 91 | 78 | 575 |
+| 30d | 2026-10-20 | 1 | 14 | 9 | 3 | 11 | 8 |
+| last60d | 2026-09-20 | 2 | 36 | 13 | 7 | 16 | 31 |
+| 90d | 2026-08-21 | 4 | 90 | 16 | 16 | 20 | 78 |
+| last180d | 2026-05-23 | 5 | 171 | 18 | 36 | 34 | 168 |
+| 360d | 2025-11-24 | 12 | 288 | 23 | 50 | 51 | 298 |
+| last720d | 2024-11-29 | 27 | 515 | 28 | 91 | 79 | 572 |
 
 ## Release 资产
 
@@ -99,4 +99,4 @@ oxigraph 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T08:00:07Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T07:44:22Z._
