@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 14 | 7 | 2 | 10 | 12 |
-| last60d | 2026-09-22 | 2 | 38 | 11 | 7 | 16 | 36 |
-| 90d | 2026-08-23 | 4 | 87 | 14 | 16 | 19 | 83 |
-| last180d | 2026-05-25 | 5 | 173 | 16 | 37 | 33 | 173 |
-| 360d | 2025-11-26 | 12 | 293 | 21 | 51 | 50 | 303 |
-| last720d | 2024-12-01 | 27 | 520 | 26 | 91 | 78 | 577 |
+| 30d | 2026-10-23 | 0 | 14 | 7 | 2 | 9 | 12 |
+| last60d | 2026-09-23 | 2 | 38 | 11 | 7 | 16 | 33 |
+| 90d | 2026-08-24 | 4 | 86 | 14 | 15 | 18 | 69 |
+| last180d | 2026-05-26 | 5 | 170 | 16 | 37 | 33 | 168 |
+| 360d | 2025-11-27 | 12 | 293 | 21 | 51 | 49 | 303 |
+| last720d | 2024-12-02 | 27 | 520 | 26 | 90 | 78 | 577 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for oxigraph lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:21:25Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:46:38Z._
