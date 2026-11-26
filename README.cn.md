@@ -14,13 +14,13 @@ x install oxigraph
 
 ## 代码洞察
 
-合计: **85,310** 行代码（覆盖前 5 种语言、共 **204** 个文件）。
+合计: **85,471** 行代码（覆盖前 5 种语言、共 **205** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 78,725 | 1,269 | 5,576 | 158 |
+| Rust | 78,890 | 1,266 | 5,588 | 159 |
 | Json | 2,377 | 0 | 0 | 4 |
-| Python | 1,954 | 25 | 250 | 11 |
+| Python | 1,950 | 25 | 250 | 11 |
 | Toml | 1,118 | 3 | 124 | 26 |
 | TypeScript | 479 | 3 | 62 | 5 |
 
@@ -42,27 +42,27 @@ x install oxigraph
 ## 发布
 
 - **最新版本**: `v0.5.13` (2026-10-22)
-- **最近提交**: 2026-11-20
+- **最近提交**: 2026-11-25
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 2,062 · **Fork**: 196 · **开放 issue**: 419 · **贡献者**: 46
+- **Star**: 2,063 · **Fork**: 198 · **开放 issue**: 420 · **贡献者**: 46
 
 ## 累计统计
 
-- **发布数**: 79 · **已合并 PR**: 1201 · **开放 PR**: 30 · **已关闭 issue**: 275 · **开放 issue**: 144 · **提交数**: 2444
+- **发布数**: 79 · **已合并 PR**: 1204 · **开放 PR**: 31 · **已关闭 issue**: 275 · **开放 issue**: 145 · **提交数**: 2447
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 14 | 9 | 2 | 9 | 12 |
-| last60d | 2026-09-26 | 2 | 37 | 13 | 5 | 17 | 33 |
-| 90d | 2026-08-27 | 4 | 83 | 16 | 14 | 19 | 69 |
-| last180d | 2026-05-29 | 5 | 167 | 18 | 37 | 33 | 168 |
-| 360d | 2025-11-30 | 12 | 293 | 22 | 51 | 50 | 303 |
-| last720d | 2024-12-05 | 27 | 517 | 28 | 89 | 79 | 577 |
+| 30d | 2026-10-27 | 0 | 17 | 11 | 1 | 8 | 15 |
+| last60d | 2026-09-27 | 2 | 40 | 15 | 5 | 18 | 36 |
+| 90d | 2026-08-28 | 4 | 85 | 18 | 12 | 20 | 72 |
+| last180d | 2026-05-30 | 5 | 170 | 20 | 37 | 34 | 171 |
+| 360d | 2025-12-01 | 12 | 296 | 24 | 51 | 51 | 306 |
+| last720d | 2024-12-06 | 27 | 520 | 29 | 88 | 80 | 577 |
 
 ## Release 资产
 
@@ -77,19 +77,6 @@ x install oxigraph
 | [oxigraph_v0.5.13_x86_64_linux_gnu](https://github.com/oxigraph/oxigraph/releases/download/v0.5.13/oxigraph_v0.5.13_x86_64_linux_gnu) | 21.2 MiB | `native/linux/x64/glibc` |
 | [oxigraph_v0.5.13_x86_64_windows_msvc.exe](https://github.com/oxigraph/oxigraph/releases/download/v0.5.13/oxigraph_v0.5.13_x86_64_windows_msvc.exe) | 13.1 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/oxigraph) 上共有 **30** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**23** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.5.8` | 🪦 legacy |
-| Debian 14 | `0.5.8` | 🪦 legacy |
-| Debian 13 | `0.4.9` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.5.5` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.3.22` | ⚠️ outdated |
-| Nix unstable | `0.5.11` | ⚠️ outdated |
-
 ## 改进这些数据
 
 oxigraph 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `oxigraph` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -99,4 +86,4 @@ oxigraph 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T08:25:39Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T09:28:34Z._
