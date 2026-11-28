@@ -14,13 +14,13 @@ x install oxigraph
 
 ## Code insight
 
-Total: **84,253** lines of code across **205** files in the top 5 languages.
+Total: **84,503** lines of code across **205** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 77,672 | 1,267 | 5,445 | 159 |
+| Rust | 77,914 | 1,268 | 5,465 | 159 |
 | Json | 2,377 | 0 | 0 | 4 |
-| Python | 1,950 | 25 | 250 | 11 |
+| Python | 1,958 | 25 | 251 | 11 |
 | Toml | 1,118 | 3 | 124 | 26 |
 | TypeScript | 479 | 3 | 62 | 5 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.13` (2026-10-22)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-27
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 2,067 · **Forks**: 199 · **Open issues**: 420 · **Contributors**: 46
+- **Stars**: 2,069 · **Forks**: 199 · **Open issues**: 422 · **Contributors**: 48
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 1208 · **Open PRs**: 27 · **Closed issues**: 275 · **Open issues**: 145 · **Commits**: 2451
+- **Releases**: 79 · **Merged PRs**: 1212 · **Open PRs**: 26 · **Closed issues**: 278 · **Open issues**: 144 · **Commits**: 2455
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 21 | 6 | 1 | 8 | 0 |
-| last60d | 2026-09-28 | 2 | 44 | 11 | 5 | 18 | 0 |
-| 90d | 2026-08-29 | 4 | 80 | 13 | 10 | 20 | 0 |
-| last180d | 2026-05-31 | 5 | 174 | 16 | 37 | 34 | 0 |
-| 360d | 2025-12-02 | 12 | 300 | 20 | 51 | 51 | 0 |
-| last720d | 2024-12-07 | 27 | 523 | 25 | 88 | 80 | 581 |
+| 30d | 2026-10-29 | 0 | 25 | 5 | 3 | 7 | 23 |
+| last60d | 2026-09-29 | 2 | 48 | 10 | 7 | 18 | 44 |
+| 90d | 2026-08-30 | 4 | 82 | 12 | 12 | 20 | 80 |
+| last180d | 2026-06-01 | 5 | 177 | 15 | 39 | 34 | 179 |
+| 360d | 2025-12-03 | 12 | 304 | 19 | 53 | 51 | 314 |
+| last720d | 2024-12-08 | 27 | 527 | 24 | 91 | 79 | 585 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for oxigraph lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:25:33Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:45:52Z._
